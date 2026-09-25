@@ -58,10 +58,14 @@
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PixelAlien0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PixelAlien0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PixelAlien0&theme=tokyonight" alt="Profile Summary" width="98%" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PixelAlien0&theme=tokyonight" alt="Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PixelAlien0&theme=tokyonight" alt="Languages by Commits" width="49%" />
+</p>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PixelAlien0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=PixelAlien0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
